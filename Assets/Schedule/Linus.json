@@ -1,0 +1,20 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Schedules/Linus",
+      "Entries": {
+        "spring": "630 Forest 98 74 1/700 Forest 100 80 1/930 Forest 110 99 2/1400 Forest 100 80 1/1900 Tent 3 2 0/2100 Tent 1 3 2/2300 Tent 4 4 2 linus_sleep",
+        "summer": "630 Forest 100 81 1/940 Forest 70 78 3 square_3_3/1300 Forest 40 72 3 square_3_3/2000 Forest 102 80 3/2020 Tent 2 2 2",
+        "fall": "700 Forest 98 74 1/740 Forest 102 80 3/1000 Railroad 20 57 2 square_5_5/1600 Forest 77 99 2/2000 Tent 2 2 2",
+        "winter": "1100 Mountain 98 74 1/1400 BathHouse_Entry 8 6 3 \"Strings\\schedules\\Linus:winter.000\"/1800 Tent 2 2 2",
+        "DesertFestival_2": "610 Tent 2 2 0/700 Desert 32 8 1 \"Strings\\1_6_Strings:DesertFestival_Linus\"/2540 bed",
+        "winter_15": "1100 Forest 100 80 1/1600 Beach 19 4 2 \"Strings\\schedules\\Linus:winter_15.000\"/2330 Tent 4 4 2 linus_sleep",
+        "rain": "700 Tent 2 2 0/930 Forest 100 80 1/1010 Tent 3 2 2/1500 Mountain 17 8 2/1900 Tent 2 2 2",
+        "GreenRain": "610 Forest 103 80 3/1200 Forest 100 73 1/1700 Forest 101 78 2/2200 bed"
+      }
+    }
+  ]
+}
+
+
