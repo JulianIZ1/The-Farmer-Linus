@@ -1,7 +1,51 @@
 {
     "Format": "2.9.1",
     "Changes": [
+        // Add Location Data
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": {
+                "{{ModId}}_TestTent": {
+                    "CreateOnLoad": {
+                        "MapPath": "Maps/{{ModId}}_TestTent"
+                    }
+                }
+            }
+        },
+
+        // Add Map File
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_TestTent",
+            "FromFile": "Assets/Maps/TestTent.tmx"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Mountain",
+            "FromFile": "Assets/Maps/TestMountain.tmx"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Forest",
+            "FromFile": "Assets/Maps/TestForest.tmx"
+        },
         
+        // Add Warp from another map
+        {
+            "Action": "EditMap",
+            "Target": "Maps/Forest",
+            "AddWarps": [
+                "101 76 {{ModId}}_TestTent 2 4"
+            ]
+        },
+        {
+            "Action": "EditMap",
+            "Target": "Maps/{{ModId}}_TestTent",
+            "AddWarps": [
+                "2 5 Forest 101 77"
+            ]
+        }
 
     ]
 }
