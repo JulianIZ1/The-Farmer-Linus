@@ -17,7 +17,7 @@
         // Add Map File
         {
             "Action": "Load",
-            "Target": "Maps/{{ModId}}_TestTent",
+            "Target": "Maps/Tent",
             "FromFile": "Assets/Maps/TestTent.tmx"
         },
         {
@@ -36,12 +36,12 @@
             "Action": "EditMap",
             "Target": "Maps/Forest",
             "AddWarps": [
-                "101 76 {{ModId}}_TestTent 2 4"
+                "101 76 Tent 2 4"
             ]
         },
         {
             "Action": "EditMap",
-            "Target": "Maps/{{ModId}}_TestTent",
+            "Target": "Maps/Tent",
             "AddWarps": [
                 "2 5 Forest 101 77"
             ]
@@ -50,7 +50,7 @@
         // Updating Schedule Changes
         {
             "Action": "Include",
-            "FromFile": "Assets/Schedules/LinusSchedule.json"
+            "FromFile": "Assets/Schedule/LinusSchedule.json"
         }
 
     ]
