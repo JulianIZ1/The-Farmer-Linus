@@ -1,19 +1,6 @@
 {
     "Format": "2.9.1",
     "Changes": [
-        // Add Location Data
-        {
-            "Action": "EditData",
-            "Target": "Data/Locations",
-            "Entries": {
-                "{{ModId}}_TestTent": {
-                    "CreateOnLoad": {
-                        "MapPath": "Maps/{{ModId}}_TestTent"
-                    }
-                }
-            }
-        },
-
         // Add Map File
         {
             "Action": "Load",
