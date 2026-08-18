@@ -1,10 +1,23 @@
 {
     "Format": "2.9.1",
     "Changes": [
-        // Update the Map File
+        // Add Location Data
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": {
+                "{{ModId}}_TestTent": {
+                    "CreateOnLoad": {
+                        "MapPath": "Maps/{{ModId}}_TestTent"
+                    }
+                }
+            }
+        },
+
+        // Add Map File
         {
             "Action": "Load",
-            "Target": "Maps/Tent",
+            "Target": "Maps/{{ModId}}_TestTent",
             "FromFile": "Assets/Maps/TestTent.tmx"
         },
         {
@@ -23,22 +36,21 @@
             "Action": "EditMap",
             "Target": "Maps/Forest",
             "AddWarps": [
-                "101 76 Tent 2 4"
+                "101 76 {{ModId}}_TestTent 2 4"
             ]
         },
         {
             "Action": "EditMap",
-            "Target": "Maps/Tent",
+            "Target": "Maps/{{ModId}}_TestTent",
             "AddWarps": [
                 "2 5 Forest 101 77"
             ]
         },
 
-        // Update the schedule files
+        // Updating Schedule Changes
         {
-            "Action": "EditData",
-            "Target": "Characters/Schedules/Linus",
-            "FromFile": "Assets/Schedule/Linus.json"
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/LinusSchedule.json"
         }
 
     ]
