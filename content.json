@@ -39,11 +39,11 @@
             ]
         },
 
-        // Updating Schedule Changes
+        // Updating Schedule and Dialogue
         {
-            "LogFile": "Schedule change loaded",
+            "LogName": "Linus Schedule and Dialouge changes made",
             "Action": "Include",
-            "FromFile": "data/LinusSchedule.json"
+            "FromFile": "data/LinusSchedule.json, data/LinusDialogue.json"
         }
 
     ]
