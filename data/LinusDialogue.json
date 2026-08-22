@@ -1,0 +1,15 @@
+{
+    "Changes":
+    [
+        {
+            "LogName": "All of Linus Dialogue",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Linus",
+            "Entries":
+            {
+                // Introduction
+                "Introduction": "{{i18n:Core.Linus.Introduction}}"
+            }
+        }
+    ]
+}
