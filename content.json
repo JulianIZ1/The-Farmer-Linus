@@ -3,23 +3,27 @@
     "Changes": [
         // Add Map File
         {
+            "LogFile": "Tent Map Loaded",
             "Action": "Load",
             "Target": "Maps/Tent",
-            "FromFile": "Assets/Maps/TestTent.tmx"
+            "FromFile": "assets/Maps/TestTent.tmx"
         },
         {
+            "LogFile": "Mountain Map Loaded",
             "Action": "Load",
             "Target": "Maps/Mountain",
-            "FromFile": "Assets/Maps/TestMountain.tmx"
+            "FromFile": "assets/Maps/TestMountain.tmx"
         },
         {
+            "LogFile": "Forest Map Loaded",
             "Action": "Load",
             "Target": "Maps/Forest",
-            "FromFile": "Assets/Maps/TestForest.tmx"
+            "FromFile": "assets/Maps/TestForest.tmx"
         },
         
         // Add Warp from another map
         {
+            "LogFile": "Forest Warp Added",
             "Action": "EditMap",
             "Target": "Maps/Forest",
             "AddWarps": [
@@ -27,6 +31,7 @@
             ]
         },
         {
+            "LogFile": "Tent Warp Added",
             "Action": "EditMap",
             "Target": "Maps/Tent",
             "AddWarps": [
@@ -36,8 +41,9 @@
 
         // Updating Schedule Changes
         {
+            "LogFile": "Schedule change loaded",
             "Action": "Include",
-            "FromFile": "Assets/Schedule/LinusSchedule.json"
+            "FromFile": "data/LinusSchedule.json"
         }
 
     ]
