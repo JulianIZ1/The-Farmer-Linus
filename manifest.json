@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "A character overhaul for Linus",
     "UniqueID": "JulianIZ.TheFarmerLinus",
-    "UpdateKeys": [], 
+    "UpdateKeys": ["Nexus:50706"], 
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
     }
