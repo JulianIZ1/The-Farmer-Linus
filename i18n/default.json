@@ -2,5 +2,221 @@
     // Base Dialogue
 
     // Intro
-    "Core.Linus.Introduction": "A stranger?#$b# OH you're the new farmer! $4#$b# My name is Linus. I just live out here alone."
+    "Core.Linus.Introduction": "A stranger?#$b# OH you're the new farmer! $3#$b# My name is Linus. I live out here by myself.",
+
+    // Spring - No Hearts
+    "Core.Linus.Spring.Mon.NH": "The air here is very refreshing compared to where I use to live.#$e#Coming out here was one of the best decisions I have ever made!$1",
+    "Core.Linus.Spring.Tue.NH": "",
+    "Core.Linus.Spring.Wen.NH": "",
+    "Core.Linus.Spring.Thu.NH": "",
+    "Core.Linus.Spring.Fri.NH": "",
+    "Core.Linus.Spring.Sat.NH": "",
+    "Core.Linus.Spring.Sun.NH": "",
+    
+    // Summer - No Hearts
+    "Core.Linus.Summer.Mon.NH": "",
+    "Core.Linus.Summer.Tue.NH": "",
+    "Core.Linus.Summer.Wen.NH": "",
+    "Core.Linus.Summer.Thu.NH": "",
+    "Core.Linus.Summer.Fri.NH": "",
+    "Core.Linus.Summer.Sat.NH": "",
+    "Core.Linus.Summer.Sun.NH": "",
+
+    // Fall - No Hearts
+    "Core.Linus.Fall.Mon.NH": "",
+    "Core.Linus.Fall.Tue.NH": "",
+    "Core.Linus.Fall.Wen.NH": "",
+    "Core.Linus.Fall.Thu.NH": "",
+    "Core.Linus.Fall.Fri.NH": "",
+    "Core.Linus.Fall.Sat.NH": "",
+    "Core.Linus.Fall.Sun.NH": "",
+
+    // Winter - No Hearts
+    "Core.Linus.Winter.Mon.NH": "",
+    "Core.Linus.Winter.Tue.NH": "",
+    "Core.Linus.Winter.Wen.NH": "",
+    "Core.Linus.Winter.Thu.NH": "",
+    "Core.Linus.Winter.Fri.NH": "",
+    "Core.Linus.Winter.Sat.NH": "",
+    "Core.Linus.Winter.Sun.NH": "",
+
+    // Spring - 2 Hearts
+    "Core.Linus.Spring.Mon.2H": "",
+    "Core.Linus.Spring.Tue.2H": "",
+    "Core.Linus.Spring.Wen.2H": "",
+    "Core.Linus.Spring.Thu.2H": "",
+    "Core.Linus.Spring.Fri.2H": "",
+    "Core.Linus.Spring.Sat.2H": "",
+    "Core.Linus.Spring.Sun.2H": "",
+    
+    // Summer - 2 Hearts
+    "Core.Linus.Summer.Mon.2H": "",
+    "Core.Linus.Summer.Tue.2H": "",
+    "Core.Linus.Summer.Wen.2H": "",
+    "Core.Linus.Summer.Thu.2H": "",
+    "Core.Linus.Summer.Fri.2H": "",
+    "Core.Linus.Summer.Sat.2H": "",
+    "Core.Linus.Summer.Sun.2H": "",
+
+    // Fall - 2 Hearts
+    "Core.Linus.Fall.Mon.2H": "",
+    "Core.Linus.Fall.Tue.2H": "",
+    "Core.Linus.Fall.Wen.2H": "",
+    "Core.Linus.Fall.Thu.2H": "",
+    "Core.Linus.Fall.Fri.2H": "",
+    "Core.Linus.Fall.Sat.2H": "",
+    "Core.Linus.Fall.Sun.2H": "",
+
+    // Winter - 2 Hearts
+    "Core.Linus.Winter.Mon.2H": "",
+    "Core.Linus.Winter.Tue.2H": "",
+    "Core.Linus.Winter.Wen.2H": "",
+    "Core.Linus.Winter.Thu.2H": "",
+    "Core.Linus.Winter.Fri.2H": "",
+    "Core.Linus.Winter.Sat.2H": "",
+    "Core.Linus.Winter.Sun.2H": "",
+
+    // Spring - 4 Hearts
+    "Core.Linus.Spring.Mon.4H": "",
+    "Core.Linus.Spring.Tue.4H": "",
+    "Core.Linus.Spring.Wen.4H": "",
+    "Core.Linus.Spring.Thu.4H": "",
+    "Core.Linus.Spring.Fri.4H": "",
+    "Core.Linus.Spring.Sat.4H": "",
+    "Core.Linus.Spring.Sun.4H": "",
+
+    // Summer - 4 Hearts
+    "Core.Linus.Summer.Mon.4H": "",
+    "Core.Linus.Summer.Tue.4H": "",
+    "Core.Linus.Summer.Wen.4H": "",
+    "Core.Linus.Summer.Thu.4H": "",
+    "Core.Linus.Summer.Fri.4H": "",
+    "Core.Linus.Summer.Sat.4H": "",
+    "Core.Linus.Summer.Sun.4H": "",
+
+    // Fall - 4 Hearts
+    "Core.Linus.Fall.Mon.4H": "",
+    "Core.Linus.Fall.Tue.4H": "",
+    "Core.Linus.Fall.Wen.4H": "",
+    "Core.Linus.Fall.Thu.4H": "",
+    "Core.Linus.Fall.Fri.4H": "",
+    "Core.Linus.Fall.Sat.4H": "",
+    "Core.Linus.Fall.Sun.4H": "",
+
+    // Winter - 4 Hearts
+    "Core.Linus.Winter.Mon.4H": "",
+    "Core.Linus.Winter.Tue.4H": "",
+    "Core.Linus.Winter.Wen.4H": "",
+    "Core.Linus.Winter.Thu.4H": "",
+    "Core.Linus.Winter.Fri.4H": "",
+    "Core.Linus.Winter.Sat.4H": "",
+    "Core.Linus.Winter.Sun.4H": "",
+
+    // Spring - 6 Hearts
+    "Core.Linus.Spring.Mon.6H": "",
+    "Core.Linus.Spring.Tue.6H": "",
+    "Core.Linus.Spring.Wen.6H": "",
+    "Core.Linus.Spring.Thu.6H": "",
+    "Core.Linus.Spring.Fri.6H": "",
+    "Core.Linus.Spring.Sat.6H": "",
+    "Core.Linus.Spring.Sun.6H": "",
+    
+    // Summer - 6 Hearts
+    "Core.Linus.Summer.Mon.6H": "",
+    "Core.Linus.Summer.Tue.6H": "",
+    "Core.Linus.Summer.Wen.6H": "",
+    "Core.Linus.Summer.Thu.6H": "",
+    "Core.Linus.Summer.Fri.6H": "",
+    "Core.Linus.Summer.Sat.6H": "",
+    "Core.Linus.Summer.Sun.6H": "",
+
+    // Fall - 6 Hearts
+    "Core.Linus.Fall.Mon.6H": "",
+    "Core.Linus.Fall.Tue.6H": "",
+    "Core.Linus.Fall.Wen.6H": "",
+    "Core.Linus.Fall.Thu.6H": "",
+    "Core.Linus.Fall.Fri.6H": "",
+    "Core.Linus.Fall.Sat.6H": "",
+    "Core.Linus.Fall.Sun.6H": "",
+
+    // Winter - 6 Hearts
+    "Core.Linus.Winter.Mon.6H": "",
+    "Core.Linus.Winter.Tue.6H": "",
+    "Core.Linus.Winter.Wen.6H": "",
+    "Core.Linus.Winter.Thu.6H": "",
+    "Core.Linus.Winter.Fri.6H": "",
+    "Core.Linus.Winter.Sat.6H": "",
+    "Core.Linus.Winter.Sun.6H": "",
+
+    // Spring - 8 Hearts
+    "Core.Linus.Spring.Mon.8H": "",
+    "Core.Linus.Spring.Tue.8H": "",
+    "Core.Linus.Spring.Wen.8H": "",
+    "Core.Linus.Spring.Thu.8H": "",
+    "Core.Linus.Spring.Fri.8H": "",
+    "Core.Linus.Spring.Sat.8H": "",
+    "Core.Linus.Spring.Sun.8H": "",
+    
+    // Summer - 8 Hearts
+    "Core.Linus.Summer.Mon.8H": "",
+    "Core.Linus.Summer.Tue.8H": "",
+    "Core.Linus.Summer.Wen.8H": "",
+    "Core.Linus.Summer.Thu.8H": "",
+    "Core.Linus.Summer.Fri.8H": "",
+    "Core.Linus.Summer.Sat.8H": "",
+    "Core.Linus.Summer.Sun.8H": "",
+
+    // Fall - 8 Hearts
+    "Core.Linus.Fall.Mon.8H": "",
+    "Core.Linus.Fall.Tue.8H": "",
+    "Core.Linus.Fall.Wen.8H": "",
+    "Core.Linus.Fall.Thu.8H": "",
+    "Core.Linus.Fall.Fri.8H": "",
+    "Core.Linus.Fall.Sat.8H": "",
+    "Core.Linus.Fall.Sun.8H": "",
+
+    // Winter - 8 Hearts
+    "Core.Linus.Winter.Mon.8H": "",
+    "Core.Linus.Winter.Tue.8H": "",
+    "Core.Linus.Winter.Wen.8H": "",
+    "Core.Linus.Winter.Thu.8H": "",
+    "Core.Linus.Winter.Fri.8H": "",
+    "Core.Linus.Winter.Sat.8H": "",
+    "Core.Linus.Winter.Sun.8H": "",
+
+    // Spring - 10 Hearts
+    "Core.Linus.Spring.Mon.10H": "",
+    "Core.Linus.Spring.Tue.10H": "",
+    "Core.Linus.Spring.Wen.10H": "",
+    "Core.Linus.Spring.Thu.10H": "",
+    "Core.Linus.Spring.Fri.10H": "",
+    "Core.Linus.Spring.Sat.10H": "",
+    "Core.Linus.Spring.Sun.10H": "",
+    
+    // Summer - 10 Hearts
+    "Core.Linus.Summer.Mon.10H": "",
+    "Core.Linus.Summer.Tue.10H": "",
+    "Core.Linus.Summer.Wen.10H": "",
+    "Core.Linus.Summer.Thu.10H": "",
+    "Core.Linus.Summer.Fri.10H": "",
+    "Core.Linus.Summer.Sat.10H": "",
+    "Core.Linus.Summer.Sun.10H": "",
+
+    // Fall - 10 Hearts
+    "Core.Linus.Fall.Mon.10H": "",
+    "Core.Linus.Fall.Tue.10H": "",
+    "Core.Linus.Fall.Wen.10H": "",
+    "Core.Linus.Fall.Thu.10H": "",
+    "Core.Linus.Fall.Fri.10H": "",
+    "Core.Linus.Fall.Sat.10H": "",
+    "Core.Linus.Fall.Sun.10H": "",
+
+    // Winter - 10 Hearts
+    "Core.Linus.Winter.Mon.10H": "",
+    "Core.Linus.Winter.Tue.10H": "",
+    "Core.Linus.Winter.Wen.10H": "",
+    "Core.Linus.Winter.Thu.10H": "",
+    "Core.Linus.Winter.Fri.10H": "",
+    "Core.Linus.Winter.Sat.10H": "",
+    "Core.Linus.Winter.Sun.10H": ""
 }
