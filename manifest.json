@@ -1,7 +1,7 @@
 {
     "Name": "The Farmer Linus",
     "Author": "JulianIZ",
-    "Version": "1.0.4",
+    "Version": "1.0.5",
     "Description": "A character overhaul for Linus",
     "UniqueID": "JulianIZ.TheFarmerLinus",
     "UpdateKeys": ["Nexus:50706"], 
