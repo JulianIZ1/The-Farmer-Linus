@@ -8,7 +8,10 @@
             "Entries":
             {
                 // Introduction
-                "Introduction": "{{i18n:Core.Linus.Introduction}}"
+                "Introduction": "{{i18n:Core.Linus.Introduction}}",
+
+                // No Hearts - Spring
+                "spring_Mon": "{{i18n:Core.Linus.Spring.Mon.0h}}"
             }
         }
     ]
