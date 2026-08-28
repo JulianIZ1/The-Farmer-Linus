@@ -11,7 +11,225 @@
                 "Introduction": "{{i18n:Core.Linus.Introduction}}",
 
                 // No Hearts - Spring
-                "spring_Mon": "{{i18n:Core.Linus.Spring.Mon.0h}}"
+                "spring_Mon": "{{i18n:Core.Linus.Spring.Mon.NH}}",
+                "spring_Tue": "{{i18n:Core.Linus.Spring.Tue.NH}}",
+                "spring_Wed": "{{i18n:Core.Linus.Spring.Wen.NH}}",
+                "spring_Thu": "{{i18n:Core.Linus.Spring.Thu.NH}}",
+                "spring_Fri": "{{i18n:Core.Linus.Spring.Fri.NH}}",
+                "spring_Sat": "{{i18n:Core.Linus.Spring.Sat.NH}}",
+                "spring_Sun": "{{i18n:Core.Linus.Spring.Sun.NH}}",
+
+                // No Hearts - Summer
+                "summer_Mon": "{{i18n:Core.Linus.Summer.Mon.NH}}",
+                "summer_Tue": "{{i18n:Core.Linus.Summer.Tue.NH}}",
+                "summer_Wed": "{{i18n:Core.Linus.Summer.Wen.NH}}",
+                "summer_Thu": "{{i18n:Core.Linus.Summer.Thu.NH}}",
+                "summer_Fri": "{{i18n:Core.Linus.Summer.Fri.NH}}",
+                "summer_Sat": "{{i18n:Core.Linus.Summer.Sat.NH}}",
+                "summer_Sun": "{{i18n:Core.Linus.Summer.Sun.NH}}",
+
+                // No Hearts - Fall
+                "fall_Mon": "{{i18n:Core.Linus.Fall.Mon.NH}}",
+                "fall_Tue": "{{i18n:Core.Linus.Fall.Tue.NH}}",
+                "fall_Wed": "{{i18n:Core.Linus.Fall.Wen.NH}}",
+                "fall_Thu": "{{i18n:Core.Linus.Fall.Thu.NH}}",
+                "fall_Fri": "{{i18n:Core.Linus.Fall.Fri.NH}}",
+                "fall_Sat": "{{i18n:Core.Linus.Fall.Sat.NH}}",
+                "fall_Sun": "{{i18n:Core.Linus.Fall.Sun.NH}}",
+
+                // No Hearts - Winter
+                "winter_Mon": "{{i18n:Core.Linus.Winter.Mon.NH}}",
+                "winter_Tue": "{{i18n:Core.Linus.Winter.Tue.NH}}",
+                "winter_Wed": "{{i18n:Core.Linus.Winter.Wen.NH}}",
+                "winter_Thu": "{{i18n:Core.Linus.Winter.Thu.NH}}",
+                "winter_Fri": "{{i18n:Core.Linus.Winter.Fri.NH}}",
+                "winter_Sat": "{{i18n:Core.Linus.Winter.Sat.NH}}",
+                "winter_Sun": "{{i18n:Core.Linus.Winter.Sun.NH}}",
+
+                // 2 Hearts - Spring
+                "spring_Mon2": "{{i18n:Core.Linus.Spring.Mon.2H}}",
+                "spring_Tue2": "{{i18n:Core.Linus.Spring.Tue.2H}}",
+                "spring_Wed2": "{{i18n:Core.Linus.Spring.Wen.2H}}",
+                "spring_Thu2": "{{i18n:Core.Linus.Spring.Thu.2H}}",
+                "spring_Fri2": "{{i18n:Core.Linus.Spring.Fri.2H}}",
+                "spring_Sat2": "{{i18n:Core.Linus.Spring.Sat.2H}}",
+                "spring_Sun2": "{{i18n:Core.Linus.Spring.Sun.2H}}",
+
+                // 2 Hearts - Summer
+                "summer_Mon2": "{{i18n:Core.Linus.Summer.Mon.2H}}",
+                "summer_Tue2": "{{i18n:Core.Linus.Summer.Tue.2H}}",
+                "summer_Wed2": "{{i18n:Core.Linus.Summer.Wen.2H}}",
+                "summer_Thu2": "{{i18n:Core.Linus.Summer.Thu.2H}}",
+                "summer_Fri2": "{{i18n:Core.Linus.Summer.Fri.2H}}",
+                "summer_Sat2": "{{i18n:Core.Linus.Summer.Sat.2H}}",
+                "summer_Sun2": "{{i18n:Core.Linus.Summer.Sun.2H}}",
+
+                // 2 Hearts - Fall
+                "fall_Mon2": "{{i18n:Core.Linus.Fall.Mon.2H}}",
+                "fall_Tue2": "{{i18n:Core.Linus.Fall.Tue.2H}}",
+                "fall_Wed2": "{{i18n:Core.Linus.Fall.Wen.2H}}",
+                "fall_Thu2": "{{i18n:Core.Linus.Fall.Thu.2H}}",
+                "fall_Fri2": "{{i18n:Core.Linus.Fall.Fri.2H}}",
+                "fall_Sat2": "{{i18n:Core.Linus.Fall.Sat.2H}}",
+                "fall_Sun2": "{{i18n:Core.Linus.Fall.Sun.2H}}",
+
+                // 2 Hearts - Winter
+                "winter_Mon2": "{{i18n:Core.Linus.Winter.Mon.2H}}",
+                "winter_Tue2": "{{i18n:Core.Linus.Winter.Tue.2H}}",
+                "winter_Wed2": "{{i18n:Core.Linus.Winter.Wen.2H}}",
+                "winter_Thu2": "{{i18n:Core.Linus.Winter.Thu.2H}}",
+                "winter_Fri2": "{{i18n:Core.Linus.Winter.Fri.2H}}",
+                "winter_Sat2": "{{i18n:Core.Linus.Winter.Sat.2H}}",
+                "winter_Sun2": "{{i18n:Core.Linus.Winter.Sun.2H}}",
+
+                // 4 Hearts - Spring
+                "spring_Mon4": "{{i18n:Core.Linus.Spring.Mon.4H}}",
+                "spring_Tue4": "{{i18n:Core.Linus.Spring.Tue.4H}}",
+                "spring_Wed4": "{{i18n:Core.Linus.Spring.Wen.4H}}",
+                "spring_Thu4": "{{i18n:Core.Linus.Spring.Thu.4H}}",
+                "spring_Fri4": "{{i18n:Core.Linus.Spring.Fri.4H}}",
+                "spring_Sat4": "{{i18n:Core.Linus.Spring.Sat.4H}}",
+                "spring_Sun4": "{{i18n:Core.Linus.Spring.Sun.4H}}",
+
+                // 4 Hearts - Summer
+                "summer_Mon4": "{{i18n:Core.Linus.Summer.Mon.4H}}",
+                "summer_Tue4": "{{i18n:Core.Linus.Summer.Tue.4H}}",
+                "summer_Wed4": "{{i18n:Core.Linus.Summer.Wen.4H}}",
+                "summer_Thu4": "{{i18n:Core.Linus.Summer.Thu.4H}}",
+                "summer_Fri4": "{{i18n:Core.Linus.Summer.Fri.4H}}",
+                "summer_Sat4": "{{i18n:Core.Linus.Summer.Sat.4H}}",
+                "summer_Sun4": "{{i18n:Core.Linus.Summer.Sun.4H}}",
+
+                // 4 Hearts - Fall
+                "fall_Mon4": "{{i18n:Core.Linus.Fall.Mon.4H}}",
+                "fall_Tue4": "{{i18n:Core.Linus.Fall.Tue.4H}}",
+                "fall_Wed4": "{{i18n:Core.Linus.Fall.Wen.4H}}",
+                "fall_Thu4": "{{i18n:Core.Linus.Fall.Thu.4H}}",
+                "fall_Fri4": "{{i18n:Core.Linus.Fall.Fri.4H}}",
+                "fall_Sat4": "{{i18n:Core.Linus.Fall.Sat.4H}}",
+                "fall_Sun4": "{{i18n:Core.Linus.Fall.Sun.4H}}",
+
+                // 4 Hearts - Winter
+                "winter_Mon4": "{{i18n:Core.Linus.Winter.Mon.4H}}",
+                "winter_Tue4": "{{i18n:Core.Linus.Winter.Tue.4H}}",
+                "winter_Wed4": "{{i18n:Core.Linus.Winter.Wen.4H}}",
+                "winter_Thu4": "{{i18n:Core.Linus.Winter.Thu.4H}}",
+                "winter_Fri4": "{{i18n:Core.Linus.Winter.Fri.4H}}",
+                "winter_Sat4": "{{i18n:Core.Linus.Winter.Sat.4H}}",
+                "winter_Sun4": "{{i18n:Core.Linus.Winter.Sun.4H}}",
+
+                // 6 Hearts - Spring
+                "spring_Mon6": "{{i18n:Core.Linus.Spring.Mon.6H}}",
+                "spring_Tue6": "{{i18n:Core.Linus.Spring.Tue.6H}}",
+                "spring_Wed6": "{{i18n:Core.Linus.Spring.Wen.6H}}",
+                "spring_Thu6": "{{i18n:Core.Linus.Spring.Thu.6H}}",
+                "spring_Fri6": "{{i18n:Core.Linus.Spring.Fri.6H}}",
+                "spring_Sat6": "{{i18n:Core.Linus.Spring.Sat.6H}}",
+                "spring_Sun6": "{{i18n:Core.Linus.Spring.Sun.6H}}",
+
+                // 6 Hearts - Summer
+                "summer_Mon6": "{{i18n:Core.Linus.Summer.Mon.6H}}",
+                "summer_Tue6": "{{i18n:Core.Linus.Summer.Tue.6H}}",
+                "summer_Wed6": "{{i18n:Core.Linus.Summer.Wen.6H}}",
+                "summer_Thu6": "{{i18n:Core.Linus.Summer.Thu.6H}}",
+                "summer_Fri6": "{{i18n:Core.Linus.Summer.Fri.6H}}",
+                "summer_Sat6": "{{i18n:Core.Linus.Summer.Sat.6H}}",
+                "summer_Sun6": "{{i18n:Core.Linus.Summer.Sun.6H}}",
+
+                // 6 Hearts - Fall
+                "fall_Mon6": "{{i18n:Core.Linus.Fall.Mon.6H}}",
+                "fall_Tue6": "{{i18n:Core.Linus.Fall.Tue.6H}}",
+                "fall_Wed6": "{{i18n:Core.Linus.Fall.Wen.6H}}",
+                "fall_Thu6": "{{i18n:Core.Linus.Fall.Thu.6H}}",
+                "fall_Fri6": "{{i18n:Core.Linus.Fall.Fri.6H}}",
+                "fall_Sat6": "{{i18n:Core.Linus.Fall.Sat.6H}}",
+                "fall_Sun6": "{{i18n:Core.Linus.Fall.Sun.6H}}",
+
+                // 6 Hearts - Winter
+                "winter_Mon6": "{{i18n:Core.Linus.Winter.Mon.6H}}",
+                "winter_Tue6": "{{i18n:Core.Linus.Winter.Tue.6H}}",
+                "winter_Wed6": "{{i18n:Core.Linus.Winter.Wen.6H}}",
+                "winter_Thu6": "{{i18n:Core.Linus.Winter.Thu.6H}}",
+                "winter_Fri6": "{{i18n:Core.Linus.Winter.Fri.6H}}",
+                "winter_Sat6": "{{i18n:Core.Linus.Winter.Sat.6H}}",
+                "winter_Sun6": "{{i18n:Core.Linus.Winter.Sun.6H}}",
+
+                // 8 Hearts - Spring
+                "spring_Mon8": "{{i18n:Core.Linus.Spring.Mon.8H}}",
+                "spring_Tue8": "{{i18n:Core.Linus.Spring.Tue.8H}}",
+                "spring_Wed8": "{{i18n:Core.Linus.Spring.Wen.8H}}",
+                "spring_Thu8": "{{i18n:Core.Linus.Spring.Thu.8H}}",
+                "spring_Fri8": "{{i18n:Core.Linus.Spring.Fri.8H}}",
+                "spring_Sat8": "{{i18n:Core.Linus.Spring.Sat.8H}}",
+                "spring_Sun8": "{{i18n:Core.Linus.Spring.Sun.8H}}",
+
+                // 8 Hearts - Summer
+                "summer_Mon8": "{{i18n:Core.Linus.Summer.Mon.8H}}",
+                "summer_Tue8": "{{i18n:Core.Linus.Summer.Tue.8H}}",
+                "summer_Wed8": "{{i18n:Core.Linus.Summer.Wen.8H}}",
+                "summer_Thu8": "{{i18n:Core.Linus.Summer.Thu.8H}}",
+                "summer_Fri8": "{{i18n:Core.Linus.Summer.Fri.8H}}",
+                "summer_Sat8": "{{i18n:Core.Linus.Summer.Sat.8H}}",
+                "summer_Sun8": "{{i18n:Core.Linus.Summer.Sun.8H}}",
+
+                // 8 Hearts - Fall
+                "fall_Mon8": "{{i18n:Core.Linus.Fall.Mon.8H}}",
+                "fall_Tue8": "{{i18n:Core.Linus.Fall.Tue.8H}}",
+                "fall_Wed8": "{{i18n:Core.Linus.Fall.Wen.8H}}",
+                "fall_Thu8": "{{i18n:Core.Linus.Fall.Thu.8H}}",
+                "fall_Fri8": "{{i18n:Core.Linus.Fall.Fri.8H}}",
+                "fall_Sat8": "{{i18n:Core.Linus.Fall.Sat.8H}}",
+                "fall_Sun8": "{{i18n:Core.Linus.Fall.Sun.8H}}",
+
+                // 8 Hearts - Winter
+                "winter_Mon8": "{{i18n:Core.Linus.Winter.Mon.8H}}",
+                "winter_Tue8": "{{i18n:Core.Linus.Winter.Tue.8H}}",
+                "winter_Wed8": "{{i18n:Core.Linus.Winter.Wen.8H}}",
+                "winter_Thu8": "{{i18n:Core.Linus.Winter.Thu.8H}}",
+                "winter_Fri8": "{{i18n:Core.Linus.Winter.Fri.8H}}",
+                "winter_Sat8": "{{i18n:Core.Linus.Winter.Sat.8H}}",
+                "winter_Sun8": "{{i18n:Core.Linus.Winter.Sun.8H}}",
+
+                // 10 Hearts - Spring
+                "spring_Mon10": "{{i18n:Core.Linus.Spring.Mon.10H}}",
+                "spring_Tue10": "{{i18n:Core.Linus.Spring.Tue.10H}}",
+                "spring_Wed10": "{{i18n:Core.Linus.Spring.Wen.10H}}",
+                "spring_Thu10": "{{i18n:Core.Linus.Spring.Thu.10H}}",
+                "spring_Fri10": "{{i18n:Core.Linus.Spring.Fri.10H}}",
+                "spring_Sat10": "{{i18n:Core.Linus.Spring.Sat.10H}}",
+                "spring_Sun10": "{{i18n:Core.Linus.Spring.Sun.10H}}",
+
+                // 10 Hearts - Summer
+                "summer_Mon10": "{{i18n:Core.Linus.Summer.Mon.10H}}",
+                "summer_Tue10": "{{i18n:Core.Linus.Summer.Tue.10H}}",
+                "summer_Wed10": "{{i18n:Core.Linus.Summer.Wen.10H}}",
+                "summer_Thu10": "{{i18n:Core.Linus.Summer.Thu.10H}}",
+                "summer_Fri10": "{{i18n:Core.Linus.Summer.Fri.10H}}",
+                "summer_Sat10": "{{i18n:Core.Linus.Summer.Sat.10H}}",
+                "summer_Sun10": "{{i18n:Core.Linus.Summer.Sun.10H}}",
+
+                // 10 Hearts - Fall
+                "fall_Mon10": "{{i18n:Core.Linus.Fall.Mon.10H}}",
+                "fall_Tue10": "{{i18n:Core.Linus.Fall.Tue.10H}}",
+                "fall_Wed10": "{{i18n:Core.Linus.Fall.Wen.10H}}",
+                "fall_Thu10": "{{i18n:Core.Linus.Fall.Thu.10H}}",
+                "fall_Fri10": "{{i18n:Core.Linus.Fall.Fri.10H}}",
+                "fall_Sat10": "{{i18n:Core.Linus.Fall.Sat.10H}}",
+                "fall_Sun10": "{{i18n:Core.Linus.Fall.Sun.10H}}",
+
+                // 10 Hearts - Winter
+                "winter_Mon10": "{{i18n:Core.Linus.Winter.Mon.10H}}",
+                "winter_Tue10": "{{i18n:Core.Linus.Winter.Tue.10H}}",
+                "winter_Wed10": "{{i18n:Core.Linus.Winter.Wen.10H}}",
+                "winter_Thu10": "{{i18n:Core.Linus.Winter.Thu.10H}}",
+                "winter_Fri10": "{{i18n:Core.Linus.Winter.Fri.10H}}",
+                "winter_Sat10": "{{i18n:Core.Linus.Winter.Sat.10H}}",
+                "winter_Sun10": "{{i18n:Core.Linus.Winter.Sun.10H}}",
+
+                // Special dialogue command examples
+                "linus_summerask_yes": "{{i18n:Core.Linus.SummerAsk.Yes}}",
+                "linus_summerask_no": "{{i18n:Core.Linus.SummerAsk.No}}",
+                "linus_summerask_followup": "{{i18n:Core.Linus.SummerAsk.Followup}}"
             }
         }
     ]
