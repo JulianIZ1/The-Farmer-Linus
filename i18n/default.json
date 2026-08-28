@@ -1,44 +1,43 @@
 {
     // Base Dialogue
-
     // Intro
-    "Core.Linus.Introduction": "A stranger?#$b# OH you're the new farmer! $3#$b# My name is Linus. I live out here by myself.",
+    "Core.Linus.Introduction": "A stranger?#$b# OH, you're the new farmer! $3#$b# My name is Linus. I live out here by myself.",
 
     // Spring - No Hearts
     "Core.Linus.Spring.Mon.NH": "The air here is very refreshing compared to where I use to live.#$e#Coming out here was one of the best decisions I have ever made!$1",
-    "Core.Linus.Spring.Tue.NH": "",
-    "Core.Linus.Spring.Wen.NH": "",
-    "Core.Linus.Spring.Thu.NH": "",
-    "Core.Linus.Spring.Fri.NH": "",
-    "Core.Linus.Spring.Sat.NH": "",
-    "Core.Linus.Spring.Sun.NH": "",
+    "Core.Linus.Spring.Tue.NH": "...#$e#Going to ridicule me like everyone else?$2",
+    "Core.Linus.Spring.Wen.NH": "I don't know you yet. I'd rather not talk about myself to strangers.",
+    "Core.Linus.Spring.Thu.NH": "...Is there something you need? I don't get many visitors.",
+    "Core.Linus.Spring.Fri.NH": "Please, just... leave my camp as you found it.$s",
+    "Core.Linus.Spring.Sat.NH": "I get along just fine on my own, you know.",
+    "Core.Linus.Spring.Sun.NH": "The forest is louder than the town, if you know how to listen.",
     
     // Summer - No Hearts
-    "Core.Linus.Summer.Mon.NH": "",
-    "Core.Linus.Summer.Tue.NH": "",
-    "Core.Linus.Summer.Wen.NH": "",
-    "Core.Linus.Summer.Thu.NH": "",
-    "Core.Linus.Summer.Fri.NH": "",
-    "Core.Linus.Summer.Sat.NH": "",
-    "Core.Linus.Summer.Sun.NH": "",
+    "Core.Linus.Summer.Mon.NH": "The heat doesn't bother me much. I've gotten used to sleeping with the tent flaps open.",
+    "Core.Linus.Summer.Tue.NH": "...You again. I suppose you're not going anywhere.",
+    "Core.Linus.Summer.Wen.NH": "The nights are warm enough now that I don't mind being outdoors.",
+    "Core.Linus.Summer.Thu.NH": "There are berries ripening near the river, if you're the type who forages.",
+    "Core.Linus.Summer.Fri.NH": "Some people think it's strange, living like this. I've made my peace with it.$s",
+    "Core.Linus.Summer.Sat.NH": "The wind's been kind to me lately. Small blessings.",
+    "Core.Linus.Summer.Sun.NH": "I spent the day resting in the shade. A simple life suits me.",
 
     // Fall - No Hearts
-    "Core.Linus.Fall.Mon.NH": "",
-    "Core.Linus.Fall.Tue.NH": "",
-    "Core.Linus.Fall.Wen.NH": "",
-    "Core.Linus.Fall.Thu.NH": "",
-    "Core.Linus.Fall.Fri.NH": "",
-    "Core.Linus.Fall.Sat.NH": "",
-    "Core.Linus.Fall.Sun.NH": "",
+    "Core.Linus.Fall.Mon.NH": "The nights are getting colder. I'll need to think about firewood soon.",
+    "Core.Linus.Fall.Tue.NH": "...What brings you all the way out here?",
+    "Core.Linus.Fall.Wen.NH": "The mushrooms are good this time of year, if you know where to look.",
+    "Core.Linus.Fall.Thu.NH": "The leaves remind me that nothing stays the same for long.",
+    "Core.Linus.Fall.Fri.NH": "Please don't disturb my things while I'm out foraging.",
+    "Core.Linus.Fall.Sat.NH": "I'm stocking up before the cold sets in. It's peaceful work.",
+    "Core.Linus.Fall.Sun.NH": "Fall makes the whole valley smell like earth and smoke. I love it.",
 
     // Winter - No Hearts
-    "Core.Linus.Winter.Mon.NH": "",
-    "Core.Linus.Winter.Tue.NH": "",
-    "Core.Linus.Winter.Wen.NH": "",
-    "Core.Linus.Winter.Thu.NH": "",
-    "Core.Linus.Winter.Fri.NH": "",
-    "Core.Linus.Winter.Sat.NH": "",
-    "Core.Linus.Winter.Sun.NH": "",
+    "Core.Linus.Winter.Mon.NH": "The cold is the hardest part of living like this. But I manage.$s",
+    "Core.Linus.Winter.Tue.NH": "...I don't get many visitors when it's this cold. Surprised to see you.",
+    "Core.Linus.Winter.Wen.NH": "It's a hard season to be alone in. But I've done it before.",
+    "Core.Linus.Winter.Thu.NH": "The frost makes everything look new, somehow. I try to focus on that.",
+    "Core.Linus.Winter.Fri.NH": "Please, just let me be. The cold is enough to deal with as it is.$s",
+    "Core.Linus.Winter.Sat.NH": "I make do with what I have. It's not so bad, once you accept it.",
+    "Core.Linus.Winter.Sun.NH": "The snow muffles everything. It's the quietest the valley ever gets.",
 
     // Spring - 2 Hearts
     "Core.Linus.Spring.Mon.2H": "",
