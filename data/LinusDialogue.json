@@ -1,17 +1,48 @@
 {
-    "Changes":
-    [
+    "Changes": [
         {
             "LogName": "All of Linus Dialogue",
             "Action": "EditData",
             "Target": "Characters/Dialogue/Linus",
-            "Entries":
-            {
+            "Entries": {
                 // Introduction
                 "Introduction": "{{i18n:Core.Linus.Introduction}}",
 
                 // No Hearts - Spring
-                "spring_Mon": "{{i18n:Core.Linus.Spring.Mon.NH}}"
+                "spring_Mon": "{{i18n:Core.Linus.Spring.Mon.NH}}",
+                "spring_Tue": "{{i18n:Core.Linus.Spring.Tue.NH}}",
+                "spring_Wed": "{{i18n:Core.Linus.Spring.Wen.NH}}",
+                "spring_Thu": "{{i18n:Core.Linus.Spring.Thu.NH}}",
+                "spring_Fri": "{{i18n:Core.Linus.Spring.Fri.NH}}",
+                "spring_Sat": "{{i18n:Core.Linus.Spring.Sat.NH}}",
+                "spring_Sun": "{{i18n:Core.Linus.Spring.Sun.NH}}",
+
+                // No Hearts - Summer
+                "summer_Mon": "{{i18n:Core.Linus.Summer.Mon.NH}}",
+                "summer_Tue": "{{i18n:Core.Linus.Summer.Tue.NH}}",
+                "summer_Wed": "{{i18n:Core.Linus.Summer.Wen.NH}}",
+                "summer_Thu": "{{i18n:Core.Linus.Summer.Thu.NH}}",
+                "summer_Fri": "{{i18n:Core.Linus.Summer.Fri.NH}}",
+                "summer_Sat": "{{i18n:Core.Linus.Summer.Sat.NH}}",
+                "summer_Sun": "{{i18n:Core.Linus.Summer.Sun.NH}}",
+
+                // No Hearts - Fall
+                "fall_Mon": "{{i18n:Core.Linus.Fall.Mon.NH}}",
+                "fall_Tue": "{{i18n:Core.Linus.Fall.Tue.NH}}",
+                "fall_Wed": "{{i18n:Core.Linus.Fall.Wen.NH}}",
+                "fall_Thu": "{{i18n:Core.Linus.Fall.Thu.NH}}",
+                "fall_Fri": "{{i18n:Core.Linus.Fall.Fri.NH}}",
+                "fall_Sat": "{{i18n:Core.Linus.Fall.Sat.NH}}",
+                "fall_Sun": "{{i18n:Core.Linus.Fall.Sun.NH}}",
+                
+                // No Hearts - Winter
+                "winter_Mon": "{{i18n:Core.Linus.Winter.Mon.NH}}",
+                "winter_Tue": "{{i18n:Core.Linus.Winter.Tue.NH}}",
+                "winter_Wed": "{{i18n:Core.Linus.Winter.Wen.NH}}",
+                "winter_Thu": "{{i18n:Core.Linus.Winter.Thu.NH}}",
+                "winter_Fri": "{{i18n:Core.Linus.Winter.Fri.NH}}",
+                "winter_Sat": "{{i18n:Core.Linus.Winter.Sat.NH}}",
+                "winter_Sun": "{{i18n:Core.Linus.Winter.Sun.NH}}"
             }
         }
     ]
